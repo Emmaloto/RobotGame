@@ -20,7 +20,13 @@ Can be run at http://hive.sewanee.edu/oluloep0/web-projects/Flower_Picker/
 This is a simple GUI with buttons that show flowers corresponding to their labels when clicked. As mentioned, this program will not show up AT ALL if downloaded and run in Chrome, as I linked the resources (photos) locally. It should work fine in Mozilla.
 
 
+
+
+
+
+
+
 The libraries used can be found at the links below:
 
 [P5.js](https://p5js.org/download/)
-[CreateJS] (http://code.createjs.com/)
+[CreateJS](http://code.createjs.com/)
