@@ -8,10 +8,9 @@
 Can be run at http://hive.sewanee.edu/oluloep0/web-projects/Robo-Click/   
 
 Hello! This is a simple game I built with a friend in JavaScript using P5.js. Paula Perez (ppere143@fiu.edu) designed the robot, and I dealt with the game mechanics. I plan to add 
-- A timer
-- Robot Multiplication
-- More graphics
-soon.  Enjoy!
+- More game elements
+soon.  This should work in BOTH Mozilla and Chrome.
+Enjoy!
 
 
 #### Flower Picker - P5.js 
@@ -21,7 +20,10 @@ This is a simple GUI with buttons that show flowers corresponding to their label
 
 
 
+#### Song Player - P5.js 
+Can be run at http://hive.sewanee.edu/oluloep0/web-projects/Audio_Player/  
 
+This is a grid of buttons that each play different sounds when clicked on. The names and durations of the tracks are also displayed. Files will run fine in Mozilla.
 
 
 
