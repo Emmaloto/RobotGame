@@ -1,0 +1,35 @@
+	background: rgb(84,208,221); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(84,208,221,1) ; 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
+}
+
+	background: #007e4e; /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(84,208,221,1) ; 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
+}
+
+    
+    /*
+    !this.buttonStates[1] && !this.sound.isPlaying()
+    else if(mouseIsPressed && buttonHover && this.buttonStates[1] && this.sound.isPlaying()){
+        //this.buttonStates[1] = false;  
+        //this.sound.stop();
+        this.buttonStates[2] = true;
+      text("Stopping", 50, 60);
+
+    }
+    */
+    
+    
+    /*
+    fill(50);
+    text("Button Pressed Once:"+mouseIsPressed && buttonHover && !this.buttonStates[1] && !this.sound.isPlaying(), 15, 25);
+    text("Pressed Again: "+mouseIsPressed && buttonHover && this.buttonStates[1], 15, 50);
+    text("Changing Color "+!mouseIsPressed && this.buttonStates[1] && !this.sound.isPlaying(), 15, 75);
+    */
+    
+    // text(this.sound.currentTime(), 15, 25);    
